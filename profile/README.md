@@ -38,18 +38,30 @@
     <td><img src="https://github.com/Turtlify-Capstone/.github/blob/main/profile/screenshots/Camera.png"></td>
     <td><img src="https://github.com/Turtlify-Capstone/.github/blob/main/profile/screenshots/EncyclopediaDetail.png" ></td>
   </tr>
-    <tr>
+  <tr>
     <td><img src="https://github.com/Turtlify-Capstone/.github/blob/main/profile/screenshots/Report.png"></td>
     <td><img src="https://github.com/Turtlify-Capstone/.github/blob/main/profile/screenshots/Maps.png"></td>
     <td><img src="https://github.com/Turtlify-Capstone/.github/blob/main/profile/screenshots/News.png" ></td>
+  </tr>
+    </tr>
+    <tr>
+    <td><img src="https://github.com/Turtlify-Capstone/.github/blob/main/profile/screenshots/History.png"></td>
+    <td><img src="https://github.com/Turtlify-Capstone/.github/blob/main/profile/screenshots/Instruction.png"></td>
+    <td><img src="https://github.com/Turtlify-Capstone/.github/blob/main/profile/screenshots/Settings.png" ></td>
+  </tr>
+  </tr>
+    <tr>
+    <td><img src="https://github.com/Turtlify-Capstone/.github/blob/main/profile/screenshots/Suggestion.png"></td>
+    <td><img src="https://github.com/Turtlify-Capstone/.github/blob/main/profile/screenshots/FAQ.png"></td>
+    <td><img src="https://github.com/Turtlify-Capstone/.github/blob/main/profile/screenshots/About.png" ></td>
   </tr>
  </table>
 
 ## Installation
 
-To start using this app, please download it at the following link [Turtlify](#)
+To start using this app, please download it at the following link [Turtlify](https://drive.google.com/drive/folders/1nrjfOhWwFcAlWJwJxHsnPL3g2XavbZBR?usp=sharing)
 
-To see our demo video of this application, please direct to this link [Demo Video](#)
+To see our demo video of this application, please direct to this link [Demo Video](https://drive.google.com/drive/folders/1nrjfOhWwFcAlWJwJxHsnPL3g2XavbZBR?usp=sharing)
 
 ## Usage
 
