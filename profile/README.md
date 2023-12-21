@@ -59,7 +59,7 @@
 
 ## Installation
 
-To start using this app, please download it at the following link [Turtlify](https://drive.google.com/drive/folders/1nrjfOhWwFcAlWJwJxHsnPL3g2XavbZBR?usp=sharing)
+To start using this app, please download it at the following link [Turtlify](https://drive.google.com/drive/folders/14VPphUcCXfZ5YwwG4nDwLbGRrL8mlngO?usp=drive_link)
 
 To see our demo video of this application, please direct to this link [Demo Video](https://drive.google.com/drive/folders/1nrjfOhWwFcAlWJwJxHsnPL3g2XavbZBR?usp=sharing)
 
