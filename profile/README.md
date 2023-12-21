@@ -12,6 +12,7 @@
 - [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Repository](#repository)
 - [Tech Stack](#tech)
 - [Contributing](#contributing)
 - [License](#license)
@@ -50,6 +51,8 @@
 
 To start using this app, please download it at the following link [Turtlify](#)
 
+To see our demo video of this application, please direct to this link [Demo Video](#)
+
 ## Usage
 
 1. **Turtle Search**
@@ -76,5 +79,10 @@ To start using this app, please download it at the following link [Turtlify](#)
      
 7. **Suggestions and Feedback**
    - Provide your suggestions or feedback related to turtle conservation efforts.
-  
+
+## Repository
+Check our repository below to get detail information about each learning path
+ - [Cloud Computing](https://github.com/Turtlify-Capstone/Cloud-Computing)
+ - [Machine Learning](https://github.com/Turtlify-Capstone/Machine-Learning)
+ - [Mobile Development](https://github.com/Turtlify-Capstone/Mobile-Development)
   
