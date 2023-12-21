@@ -1,11 +1,10 @@
-# Turtlify 🐢
-![Maps](https://img.shields.io/badge/Google%20Maps-4285F4.svg?style=for-the-badge&logo=Google-Maps&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
+# Turtlify: Turtle Protector & Education
+
+> Turtlify is an application dedicated to the protection and conservation of turtles. This application provides information about turtles, their locations, and allows users to report findings and provide suggestions related to the turtles they encounter.
+
 
 ![Preview Turtlify App](https://github.com/Turtlify-Capstone/.github/blob/main/profile/screenshots/TurtlifyHeader.png)
 
-Turtlify is an application dedicated to the protection and conservation of turtles. This application provides information about turtles, their locations, and allows users to report findings and provide suggestions related to the turtles they encounter.
 
 ## Table of Contents
 
@@ -28,3 +27,7 @@ Turtlify is an application dedicated to the protection and conservation of turtl
 
 ## Screenshots
 
+## Tech Stack
+![Maps](https://img.shields.io/badge/Google%20Maps-4285F4.svg?style=for-the-badge&logo=Google-Maps&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
