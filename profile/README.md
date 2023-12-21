@@ -11,7 +11,7 @@
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Installation and Usage](#installation)
-- [Usage](#usage)
+- [Tech Stack](#tech)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -26,6 +26,8 @@
 - **Suggestions and Feedback**: Provide suggestions or feedback related to turtle conservation and application.
 
 ## Screenshots
+
+## Installation and Usage
 
 ## Tech Stack
 ![Maps](https://img.shields.io/badge/Google%20Maps-4285F4.svg?style=for-the-badge&logo=Google-Maps&logoColor=white)
