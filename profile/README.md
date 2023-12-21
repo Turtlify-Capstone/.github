@@ -10,7 +10,8 @@
 
 - [Features](#features)
 - [Screenshots](#screenshots)
-- [Installation and Usage](#installation)
+- [Installation](#installation)
+- [Usage](#usage)
 - [Tech Stack](#tech)
 - [Contributing](#contributing)
 - [License](#license)
@@ -45,9 +46,35 @@
   </tr>
  </table>
 
-## Installation and Usage
+## Installation
 
-## Tech Stack
-![Maps](https://img.shields.io/badge/Google%20Maps-4285F4.svg?style=for-the-badge&logo=Google-Maps&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
+To start using this app, please download it at the following link [Turtlify](#)
+
+## Usage
+
+1. **Turtle Search**
+   - Utilize the search feature to find information about specific turtles.
+  
+2. **Turtle Identification**
+   - Take a picture of a turtle or upload a picture of a turtle that you want to know information about.
+
+3. **Finding Reports**
+   - Fill out the report form to provide information about the turtles you encounter.
+   - Include the location of the finding and other relevant details.
+  
+4. **Encyclopedia**
+   - Find a list of turtle information based on our database.
+   - Tap to see details
+  
+5. **Turtle Habitat**
+   - Find location of turtle habitat and the information based on our research.
+   - Tap to see details
+
+6. **News**
+   - Read latest news about turtle.
+   - Tap to see details news
+     
+7. **Suggestions and Feedback**
+   - Provide your suggestions or feedback related to turtle conservation efforts.
+  
+  
