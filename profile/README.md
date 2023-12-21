@@ -13,9 +13,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Repository](#repository)
-- [Tech Stack](#tech)
-- [Contributing](#contributing)
-- [License](#license)
+- [Tech Stack](#techStack)
 
 ## Features
 
