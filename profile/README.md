@@ -85,4 +85,15 @@ Check our repository below to get detail information about each learning path
  - [Cloud Computing](https://github.com/Turtlify-Capstone/Cloud-Computing)
  - [Machine Learning](https://github.com/Turtlify-Capstone/Machine-Learning)
  - [Mobile Development](https://github.com/Turtlify-Capstone/Mobile-Development)
+
+## Tech Stack
+
+**Cloud Computing**
+- ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white) ![Google Cloud Storage](https://img.shields.io/badge/Google%20Cloud%20Storage-AECBFA.svg?style=for-the-badge&logo=Google-Cloud-Storage&logoColor=black)
+  
+**Machine Learning**
+- ![Google Collab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+
+**Mobile Development**
+- ![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
   
