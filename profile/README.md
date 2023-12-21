@@ -27,6 +27,24 @@
 
 ## Screenshots
 
+<table>
+  <tr>
+    <td><img src="https://github.com/Turtlify-Capstone/.github/blob/main/profile/screenshots/SplashScreen.png" ></td>
+    <td><img src="https://github.com/Turtlify-Capstone/.github/blob/main/profile/screenshots/Homescreen.png" ></td>
+    <td><img src="https://github.com/Turtlify-Capstone/.github/blob/main/profile/screenshots/Search.png" ></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Turtlify-Capstone/.github/blob/main/profile/screenshots/Encyclopedia.png"></td>
+    <td><img src="https://github.com/Turtlify-Capstone/.github/blob/main/profile/screenshots/Camera.png"></td>
+    <td><img src="https://github.com/Turtlify-Capstone/.github/blob/main/profile/screenshots/EncyclopediaDetail.png" ></td>
+  </tr>
+    <tr>
+    <td><img src="https://github.com/Turtlify-Capstone/.github/blob/main/profile/screenshots/Report.png"></td>
+    <td><img src="https://github.com/Turtlify-Capstone/.github/blob/main/profile/screenshots/Maps.png"></td>
+    <td><img src="https://github.com/Turtlify-Capstone/.github/blob/main/profile/screenshots/News.png" ></td>
+  </tr>
+ </table>
+
 ## Installation and Usage
 
 ## Tech Stack
